@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mounika 👋
 
-<!--
-**mounigogula/mounigogula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science (AIML) Student at MLRIT
+💻 Passionate about Web Development and Software Development
+🚀 Currently learning Full Stack Development
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*C
+* Python
+* Java
+* JavaScript
+* HTML
+* CSS
+* Flask
+* SQL
+* DBMS
+
+## Projects
+
+* Quick Note Application
+* Medicine Capture
+* Find my Priest
+* Jala netra
+* Quiz Game
+* To-Do App
+
+## Currently Learning
+
+* Full Stack Development
+* Data Structures & Algorithms
+* Machine Learning
+
+## Connect with Me
+
+* LinkedIn: linkedin.com/in/mounika-gogula-3a9225384
+* GitHub: github.com/mounigogula
